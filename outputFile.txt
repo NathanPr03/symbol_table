@@ -1,0 +1,9 @@
+chomp, line 11, function, void, referenced 1
+len, line 23, variable, int, referenced 1
+len(chomp), line 13, variable, int, referenced 3
+len(string_length), line 3, variable, int, referenced 3
+main, line 20, function, int, referenced 0
+name, line 22, variable, char [], referenced 2
+str(chomp), line 11, variable, char*, referenced 3
+str(string_length), line 1, variable, char*, referenced 1
+string_length, line 1, function, int, referenced 2
